@@ -6,10 +6,6 @@
 🚀 Interested in developing impactful solutions in healthcare, education, and agriculture
 
 ---
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=apurva35873&show_icons=true&theme=light)
-
-
 
 ## 🛠️ Skills
 
