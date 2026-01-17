@@ -1,6 +1,6 @@
 # Hi 👋, I'm Apurva Shinde
 
-🎓 Computer Engineering Student | Full Stack Developer Enthusiast  
+🎓 Artifical Intelligence and Data Science Student | Full Stack Developer Enthusiast  
 💻 Skilled in building web applications using modern frontend & backend technologies  
 🌱 Actively improving problem-solving skills through hands-on projects and coding practice  
 🚀 Interested in developing impactful solutions in healthcare, education, and agriculture
@@ -21,12 +21,12 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,java" />
+ <img src="https://skillicons.dev/icons?i=flask,java,nodejs,express" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🧰 Tools
@@ -77,8 +77,7 @@
 
 ---
 
-### 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Apurva_2005?theme=light&font=Karma)
+
 
 
 ⭐ *Feel free to explore my repositories and projects!*
